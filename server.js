@@ -144,4 +144,5 @@ client.on('guildMemberAdd', member => {
   entrada.send({embed})
 })
 
+//false token
 client.login("NTA3MjIwMDc0NTgzNjg3MTc3.W9nPgQ.jlh2bhGvoZWq61nHA02RIoLmKUE");
